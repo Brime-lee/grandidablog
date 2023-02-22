@@ -13,7 +13,7 @@ export default function Home() {
               alt='Picture of the author'
               width={1200}
               height={2000}
-              // blurDataURL="data:..." automatically provided
+              // blurDataURL="data:..." automatically providedd
               // placeholder="blur" // Optional blur-up while loading
             />
 
